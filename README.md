@@ -27,9 +27,11 @@ To build a fraud detection model that can effectively distinguish between fraudu
 7. Scikit-learn
 
 ## Project Structure
+Dataset Link
+```bash
+https://drive.google.com/file/d/1HXNaORM3LidIAh0T0PX416Kjidk5Soxv/view?usp=sharing
+```
 ```text
-├── data/
-│   └── dataset.csv
 ├── notebooks/
 │   └── Online_Payment_Fraud_Detection_Main.ipynb
 └── README.md
@@ -38,11 +40,11 @@ To build a fraud detection model that can effectively distinguish between fraudu
 ## How to Run the Project
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/online-payment-fraud-detection.git
+git clone https://github.com/shreya71/Fraud-Detection-in-Online-Transaction-CaseStudy.git
 ```
 2. Navigate to the project directory
 ```bash
-cd online-payment-fraud-detection
+cd Fraud-Detection-in-Online-Transaction-CaseStudy
 ```
 3. Open the Jupyter Notebook
 ```bash
